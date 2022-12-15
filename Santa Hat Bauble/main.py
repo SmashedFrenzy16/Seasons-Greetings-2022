@@ -98,6 +98,4 @@ myPen.write("Season's Greetings", font=("Arial",
 
                                     20, "bold")) 
 
-   
-
 myPen.hideturtle() 
