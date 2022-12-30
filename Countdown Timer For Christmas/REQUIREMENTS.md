@@ -1,4 +1,4 @@
-# REQUIRES FOLLOWING PYTHON MODULES:
+# Requires Following Python Modules:
 
 - `time`
 - `datetime`
