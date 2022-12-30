@@ -1,7 +1,0 @@
-REQUIRES FOLLOWING PYTHON MODULES:
-
-1. time
-
-2. datetime
-
-3. rich
