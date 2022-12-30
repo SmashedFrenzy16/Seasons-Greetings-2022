@@ -1,5 +1,5 @@
 # REQUIRES FOLLOWING PYTHON MODULES:
 
-- time
-- datetime
-- rich
+- `time`
+- `datetime`
+- `rich`
